@@ -2,4 +2,4 @@
 - Created a public repo
 - Created a branch
 - Edited the README file
-- We are doing great yay!
+- We are doing great yay! I hope so haha
